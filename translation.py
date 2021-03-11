@@ -1,7 +1,6 @@
 class Translation(object):
-    START_TEXT = """ <b>Hi {}, I am a renamer bot with permanent thumbnail support. I can also convert files to video and download contents from Zee5.</b> \n\n
-
-<b><u><i>Send me any telegram file and reply /rename file name + extension for renaming.</i></u></b> \n\n
+    START_TEXT = """ <b>Hi {}, I am a renamer bot with permanent thumbnail support. I can also convert files to video and download contents from Zee5.</b> \n
+<b><u><i>Send me any telegram file and reply /rename file name + extension for renaming.</i></u></b> \n
 <b><i>See /help for more</i></b>
 """
 
